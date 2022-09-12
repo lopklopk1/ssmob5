@@ -1,0 +1,1 @@
+class Listellipsethirtynine2ItemModel { }
